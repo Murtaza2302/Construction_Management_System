@@ -1,0 +1,9 @@
+<servlet>
+    <servlet-name>PaymentServlet</servlet-name>
+    <servlet-class>com.example.PaymentServlet</servlet-class>
+</servlet>
+
+<servlet-mapping>
+    <servlet-name>PaymentServlet</servlet-name>
+    <url-pattern>/PaymentServlet</url-pattern>
+</servlet-mapping>
